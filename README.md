@@ -30,9 +30,5 @@
 
 <br />
 
----
-
-<img align="left" alt="F2BEAR's Github Stats" src="https://github-readme-stats.F2BEAR.vercel.app/api?username=F2BEAR&show_icons=true&hide_border=true" />
-
 [email]: facucarbonel@hotmail.com
 [linkedin]: https://www.linkedin.com/in/facundo-carbonel/
