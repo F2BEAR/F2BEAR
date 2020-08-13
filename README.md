@@ -30,5 +30,5 @@
 
 <br />
 
-[email]: (mailto:facucarbonel@hotmail.com)
+[email]: mailto:facucarbonel@hotmail.com
 [linkedin]: https://www.linkedin.com/in/facundo-carbonel/
