@@ -2,8 +2,8 @@
 
 ## I'm a Web Developer from Uruguay &#x1F1FA;&#x1F1FE;
 
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other creators
+- 🌱 I'm allways learning something new, doesn't matter when you read this 
+- 👯 I’m looking to collaborate with new people
 - ⚡ I love to draw, play guitar and I also take pictures on 35mm film!
 
 ### Connect with me:
