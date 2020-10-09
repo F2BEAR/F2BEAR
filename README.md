@@ -8,8 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Facundo Carbonel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Facundo Carbonel | E-mail" width="22px" src="https://image.flaticon.com/icons/svg/107/107779.svg" />][email]
+[WebSite][website]
+[Linkedin][linkedin]
+[Email][email]
 
 <br />
 
@@ -31,5 +32,6 @@
 
 <br />
 
-[email]: mailto:facucarbonel@hotmail.com
+[website]: https://facu.dev/
+[email]: mailto:contacto@facu.dev
 [linkedin]: https://www.linkedin.com/in/facundo-carbonel/
