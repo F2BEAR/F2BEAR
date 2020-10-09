@@ -8,8 +8,12 @@
 
 ### Connect with me:
 
+<br />
+
 [WebSite][website]
+
 [Linkedin][linkedin]
+
 [Email][email]
 
 <br />
