@@ -1,6 +1,6 @@
-### Hi there, I'm Facundo Carbonel 👋
+### Hi there 
 
-## I'm a Web Developer from Uruguay &#x1F1FA;&#x1F1FE;
+### My name is Facundo and I'm a Web Developer from Uruguay 
 
 - 🌱 I'm allways learning something new, doesn't matter when you read this 
 - 👯 I’m looking to collaborate with new people
