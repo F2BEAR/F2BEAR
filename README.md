@@ -10,7 +10,9 @@
 
 <br />
 
-[WebSite][website]    [Linkedin][linkedin]    [Email][email]
+- [WebSite][website]  
+- [Linkedin][linkedin]    
+- [Email][email]
 
 <br />
 
@@ -34,4 +36,4 @@
 
 [website]: https://facu.dev/
 [email]: mailto:contacto@facu.dev
-[linkedin]: https://www.linkedin.com/in/facundo-carbonel/
+[linkedin]: https://www.linkedin.com/in/facundo-carbonel
