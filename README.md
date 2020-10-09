@@ -6,7 +6,7 @@
 
 ### Connect with me 💌
 
-[WebSite][website] [Linkedin][linkedin] [Email][email]
+[WebSite][website] - [Linkedin][linkedin] - [Email][email]
 
 ### Languages and Tools
 
