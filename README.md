@@ -10,11 +10,7 @@
 
 <br />
 
-[WebSite][website]
-
-[Linkedin][linkedin]
-
-[Email][email]
+[WebSite][website]    [Linkedin][linkedin]    [Email][email]
 
 <br />
 
