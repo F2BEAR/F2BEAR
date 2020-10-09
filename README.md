@@ -1,4 +1,4 @@
-### My name is Facundo and I'm a Web Developer from Uruguay✨
+### Hi ther! My name is Facundo and I'm from Uruguay✨
 
 - 🌱 I'm allways learning something new, doesn't matter when you read this 
 - 👯 I’m looking to collaborate with new people
