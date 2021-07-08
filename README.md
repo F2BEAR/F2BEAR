@@ -8,7 +8,7 @@
 
 [WebSite][website] - [Linkedin][linkedin] - [Email][email]
 
-Don't forget that all the code hosted on my GitHub account is open-source and made with tons of love, so if you want to contribute with what I do, you can always [buy me a coffee](https://buymeacoffee.com/F2BEAR) 💖
+Don't forget that all the code hosted here is open-source and made with tons of love, so if you want to contribute with what I do, you can always [buy me a coffee](https://buymeacoffee.com/F2BEAR) 💖
 
 ### Languages and Tools
 
