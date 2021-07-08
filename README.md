@@ -8,6 +8,8 @@
 
 [WebSite][website] - [Linkedin][linkedin] - [Email][email]
 
+Don't forget that all the code hosted on my GitHub account is open-source and made with tons of love, so if you want to contribute with what I do, you can always [buy me a coffee](https://buymeacoffee.com/F2BEAR) 💖
+
 ### Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
